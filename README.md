@@ -200,6 +200,3 @@ A comprehensive web-based face recognition attendance system built with Python, 
 
 This is a complete, production-ready face recognition attendance system. Feel free to extend it with additional features or improvements based on your specific requirements.
 
-## 📄 License
-
-This project is provided as-is for educational and commercial use. Please ensure compliance with local privacy laws when implementing face recognition systems.
